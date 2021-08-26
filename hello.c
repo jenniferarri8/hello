@@ -10,6 +10,7 @@ Description:A hello world program with name in C.
 int main(){
 
     printf("Jennifer Arriaga\n");
+    printf("Computer Science\n");
 
     return 0;
 
