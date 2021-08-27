@@ -11,6 +11,9 @@ int main(){
 
     printf("Jennifer Arriaga\n");
     printf("Computer Science\n");
+    
+    printf("Elijah Salinas\n");
+    printf("Electrical Engineering\n");
 
     return 0;
 
